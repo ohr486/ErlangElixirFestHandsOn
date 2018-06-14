@@ -16,6 +16,7 @@ defmodule Basic do
     :world
   end
 
+  # 基本問題1
   def q1 do
     "data.json"
     |> File.stream!
@@ -24,6 +25,7 @@ defmodule Basic do
     |> Enum.count
   end
 
+  # 基本問題2
   def q2_1 do
     "data.json"
     |> File.stream!
@@ -32,6 +34,7 @@ defmodule Basic do
     |> Enum.count
   end
 
+  # 基本問題2
   def q2_2 do
     "data.json"
     |> File.stream!

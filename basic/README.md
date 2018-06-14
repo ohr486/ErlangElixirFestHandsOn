@@ -1,21 +1,23 @@
-# Basic
+# 基礎問題
 
-**TODO: Add description**
+## テストデータファイルの準備
 
-## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `basic` to your list of dependencies in `mix.exs`:
+## 基礎問題1
 
-```elixir
-def deps do
-  [
-    {:basic, "~> 0.1.0"}
-  ]
-end
+```
+# iex -S mix
+Erlang/OTP 20 [erts-9.2] [source] [64-bit] [smp:4:4] [ds:4:4:10] [async-threads:10] [hipe] [kernel-poll:false]
+
+Compiling 1 file (.ex)
+Interactive Elixir (1.6.3) - press Ctrl+C to exit (type h() ENTER for help)
+iex(1)> Basic.q1
+
+
 ```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/basic](https://hexdocs.pm/basic).
+## 基礎問題2
+
+
+## 基礎問題3
 
